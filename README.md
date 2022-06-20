@@ -10,7 +10,8 @@ In each HTML file we find:
   5) Normalized and Original data graphs
   6) Identify in different color the day where an abnormal behavior occured
 
-Output-result 1 is the output in the html file with a zoom in and hover on one graph and parameters off on the second
+Output-result 1 is the output in the html file with a zoom in and hover on one graph and parameters off on the second.
+
 Output-result 2 is the output in the html file as default
 
 The Anomaly detection of the data is also done by an Abnormal Behavior Anomaly Detection Algorithm that i build based on statistical analysis and study of the data.
