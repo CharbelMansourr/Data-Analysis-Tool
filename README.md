@@ -9,3 +9,6 @@ In each HTML file we find:
   4) The data plotted are: 4 days before the abnormal behavior occurence, the data of the day when abnormal behavior took place and one day after
   5) Normalized and Original data graphs
   6) Identify in different color the day where an abnormal behavior occured
+
+Output-result 1 is the output in the html file with a zoom in and hover on one graph and parameters off on the second
+Output-result 2 is the output in the html file as default
