@@ -1,6 +1,6 @@
 # Data-Analysis-Tool
 These two outputs are the result of a data analysis tool built using plotly and python in my internship as an Artificial Intelligence Engineer.
-The aim of this tool is to facilitate data analysis on the electronics experts in the company.
+The aim of this tool is to facilitate data analysis on the electronics experts in the company (The code can't be uploaded for Confidentiality).
 Each HTML file represents the day in which an abnormal behavior occured on the machine.
 In each HTML file we find:
   1) Multi-parameter data graphs that allow the user to turn on/off the plotted parameter, and zoom in/out with values when hovering on a data point.
